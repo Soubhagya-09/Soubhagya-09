@@ -1,7 +1,8 @@
-# Hi, I'm Soubhagya Mohapatra
+## Hi, I'm Soubhagya Mohapatra
 
 Engineering student exploring programming, problem-solving, and the foundations of AI.  
 Currently in the learning phase, focused on building real skills through consistent effort.
+Focused on turning confusion into clarity through consistent effort.
 
 ## About Me
 - Interested in becoming a Software Developer  
